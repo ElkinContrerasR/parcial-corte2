@@ -1,7 +1,7 @@
 // src/components/DateTimeSelector.tsx
 import React from 'react';
 import { IonCard, IonCardHeader, IonCardTitle, IonDatetime, IonCardContent, IonLabel } from '@ionic/react';
-import './DateTimeSelector.css';
+//import './DateTimeSelector.css';
 
 const DateTimeSelector: React.FC = () => {
   return (

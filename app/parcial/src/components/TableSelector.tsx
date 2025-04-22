@@ -9,7 +9,7 @@ import {
   IonSelect,
   IonSelectOption
 } from '@ionic/react';
-import './TableSelector.css';
+//import './TableSelector.css';
 
 const mesasDisponibles = [
   { id: 'M1', nombre: 'Mesa 1 (2 personas)' },
